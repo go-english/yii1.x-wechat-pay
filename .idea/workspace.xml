@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="435bc868-907d-4697-8e08-a82fd9de1e07" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/extensions/pay/WxJsApiPay.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/extensions/pay/WxPayApi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/extensions/pay/WxPayConfig.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/extensions/pay/WxPayDataBase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/extensions/pay/WxPayException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/extensions/pay/WxPayJsApiPay.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/extensions/pay/WxPayNotify.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/extensions/pay/WxPayNotifyReply.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/extensions/pay/WxPayOrderQuery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/extensions/pay/WxPayReport.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/extensions/pay/WxPayResults.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/extensions/pay/WxPayUnifiedOrder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/modules/pay/PayModule.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/modules/pay/controllers/WeixinController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/modules/pay/controllers/WxnotifyController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/modules/pay/views/weixin/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -61,12 +44,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WxnotifyController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WxnotifyController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/protected/modules/pay/controllers/WxnotifyController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="-6">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="315">
+                <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -159,6 +155,7 @@
         <option value="$PROJECT_DIR$/protected/extensions/pay/WxPayConfig.php" />
         <option value="$PROJECT_DIR$/protected/modules/pay/controllers/WeixinController.php" />
         <option value="$PROJECT_DIR$/protected/extensions/pay/WxPayApi.php" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -410,12 +407,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1501914240498</updated>
-      <workItem from="1501914242354" duration="356000" />
+      <workItem from="1501914242354" duration="698000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="356000" />
+    <option name="totallyTimeSpent" value="698000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="30" y="23" width="1243" height="777" extended-state="0" />
@@ -499,14 +496,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/modules/pay/controllers/WeixinController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/protected/modules/pay/PayModule.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -517,9 +506,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/modules/pay/controllers/WxnotifyController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-6">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/pay/controllers/WeixinController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="315">
+            <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
